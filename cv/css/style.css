@@ -1,0 +1,72 @@
+body{
+   font-family:Helvetica,Arial, sans-serif;
+   margin: 0;
+}
+.cabezera{
+    background: rgb(21, 133, 238); 
+    color: white;
+    text-align: center;
+}
+
+.datos, .datos_nombre{
+    display: inline-block; 
+    width: 400px;
+}
+.datos{
+    font-weight: 200;
+}
+.datos_nombre{
+    font-weight: 700;
+    font-size: 20px;
+}
+.desciption{
+    background: rgb(218, 218, 218);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px 10px
+}
+.conten{
+    width: 1000px;
+    
+    margin-right: auto;
+    margin-left: auto;
+}
+.titulo{
+    font-size: 32px;
+    font-weight: 700;
+}
+.description-cv{
+    font-size: 25px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    
+}
+.titulo-profesional{
+    margin-top: 50px;
+    font-size: 32px;
+    font-weight: 700;
+}
+ul{
+    margin-top: 12px;
+    padding: 0px;
+}
+li{
+    margin-top: 16px;
+}
+a{
+    text-decoration: none;
+    font-weight: 700;
+}
+.educacion{
+    display: inline-block;
+    width: 65%;
+    vertical-align: top;
+}
+.img{
+    display: inline-block;
+    width: 30%;
+    margin-top: 20px;
+}
+.img-foto{
+width: 300px;
+}
